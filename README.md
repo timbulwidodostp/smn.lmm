@@ -1,6 +1,8 @@
 # smn.lmm
 ML estimation of scale mixture of normal linear mixed models Use smn.lmm (skewlmm) With (In) R Software
 
+https://www.youtube.com/watch?v=g3s53n02aHI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
